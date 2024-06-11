@@ -18,11 +18,8 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-<<<<<<< HEAD
   <img alt="projeto DevLinks" src="./github/Cover.png" width="100%">
 =======
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
->>>>>>> 62676c88562589e488e7fe379257c896836972b1
 </p>
 
 ## 🚀 Tecnologias
@@ -32,10 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-<<<<<<< HEAD
 - Figma
-=======
->>>>>>> 62676c88562589e488e7fe379257c896836972b1
 
 ## 💻 Projeto
 
@@ -48,7 +42,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.fig
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
